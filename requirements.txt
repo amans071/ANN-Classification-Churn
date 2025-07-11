@@ -1,0 +1,7 @@
+tensorflowgit add requirements.txt
+pandas
+numpy
+scikit-learn
+tensorboard
+matplotlib
+streamlit
